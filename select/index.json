@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Playa Playa Ⅱ feat. ユンジ, 橋本真依",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-01-06T15:02:48.886781Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Playa Playa",
+      "artist": "Migos",
+      "has_synced": true,
+      "path": "select/01_Playa_Playa_Migos.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Playa Playa",
+      "artist": "D'Angelo",
+      "has_synced": true,
+      "path": "select/02_Playa_Playa_D'Angelo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Playa Playa",
+      "artist": "Migos",
+      "has_synced": true,
+      "path": "select/03_Playa_Playa_Migos.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Playa Playa",
+      "artist": "Big Mike",
+      "has_synced": false,
+      "path": "select/04_Playa_Playa_Big_Mike.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Playa Playa",
+      "artist": "Silkk the Shocker",
+      "has_synced": false,
+      "path": "select/05_Playa_Playa_Silkk_the_Shocker.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Playa Playa",
+      "artist": "D_Angelo",
+      "has_synced": true,
+      "path": "select/06_Playa_Playa_D_Angelo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Playa Playa Explicit",
+      "artist": "D'Angelo",
+      "has_synced": true,
+      "path": "select/07_Playa_Playa_Explicit_D'Angelo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Playa Playa",
+      "artist": "Migos",
+      "has_synced": true,
+      "path": "select/08_Playa_Playa_Migos.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Playa, Playa",
+      "artist": "D'Angelo",
+      "has_synced": true,
+      "path": "select/09_Playa,_Playa_D'Angelo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Playa Playa",
+      "artist": "D'angelo",
+      "has_synced": true,
+      "path": "select/10_Playa_Playa_D'angelo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Playa Playa",
+      "artist": "D' Angelo",
+      "has_synced": true,
+      "path": "select/11_Playa_Playa_D'_Angelo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Playa Playa",
+      "artist": "D’Angelo",
+      "has_synced": true,
+      "path": "select/12_Playa_Playa_D’Angelo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Playa Playa (Produced By Murda)",
+      "artist": "Migos",
+      "has_synced": true,
+      "path": "select/13_Playa_Playa_(Produced_By_Murda)_Migos.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Trapped (feat. Shock G, Dank, Playa-Playa & Wiz)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/14_Trapped_(feat._Shock_G,_Dank,_Playa-Playa_&_Wiz)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Big Mike - Playa Playa",
+      "artist": "V.A.",
+      "has_synced": false,
+      "path": "select/15_Big_Mike_-_Playa_Playa_V.A..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Playa Playa II feat. ユンジ, 橋本真依",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_Playa_Playa_II_feat._ユンジ,_橋本真依_LGYankees.txt"
+    }
+  ]
+}
